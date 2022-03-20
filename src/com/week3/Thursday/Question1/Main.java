@@ -1,7 +1,6 @@
 package com.week3.Thursday.Question1;
 
 
-import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.TreeSet;
 
